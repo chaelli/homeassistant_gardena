@@ -6,4 +6,4 @@
     "codeowners": ["@kayloehmann"],
     "requirements": [],
     "homeassistant": "0.95.0"
-  }
+}

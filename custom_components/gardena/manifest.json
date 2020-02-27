@@ -1,3 +1,9 @@
 {
-    "homeassistant": "0.100.0"
-}
+    "domain": "integration-gardena",
+    "name": "integration-gardena",
+    "documentation": "https://github.com/kayloehmann/home_assistant_gardena",
+    "dependencies": [],
+    "codeowners": ["@kayloehmann"],
+    "requirements": [],
+    "homeassistant": "0.95.0"
+  }

@@ -1,6 +1,6 @@
 {
-    "domain": "integration-gardena",
-    "name": "integration-gardena",
+    "domain": "gardena",
+    "name": "gardena",
     "documentation": "https://github.com/kayloehmann/home_assistant_gardena",
     "dependencies": [],
     "codeowners": ["@kayloehmann"],

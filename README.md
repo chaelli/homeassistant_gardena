@@ -13,9 +13,6 @@ Mowers will be added as vacum cleaners.
 The vacum cleaner is the closest thing to a lawn mower, it has characteristics like a base station, being a robot, supports simular command (stop, start, dock) and has battery status.
 Start will trigger 24h of mowing.
 
-![alt screenshot](./README_screenshot1.png)
-
-
 ## smart sensor 
 https://www.gardena.com/int/products/smart/smart-system/gardena-smart-sensor/967044801/
 Device is registered as multiple sensors:

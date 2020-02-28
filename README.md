@@ -1,7 +1,5 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-![Project Stage][project-stage-shield]
-
 # Home assistant Gardena Smart support
 
 This is a custom component to support Gardena smart devices. All devices will be automatically discovered.

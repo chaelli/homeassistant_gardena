@@ -1,9 +1,10 @@
 {
     "domain": "gardena",
-    "name": "gardena",
+    "name": "Gardena Smart Support",
     "documentation": "https://github.com/kayloehmann/home_assistant_gardena",
     "dependencies": [],
     "codeowners": ["@kayloehmann"],
-    "requirements": [],
-    "homeassistant": "0.95.0"
+    "requirements": [
+        "wt.pygardena==0.9.6"
+    ]
 }

@@ -43,5 +43,4 @@ gardena:
 3. Restart Homeassistant
 
 ## Tested with:
- * Mower: Sileno smart (the one with a working capacity of 1000m2)
  * Smart Sensor
